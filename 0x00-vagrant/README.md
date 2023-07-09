@@ -1,1 +1,1 @@
-0x00-vigrant
+0x00-vagrant
